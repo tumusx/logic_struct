@@ -1,4 +1,4 @@
-/*#include "stdio.h"
+#include "stdio.h"
 #include "math.h"
 
 int main() {
@@ -15,5 +15,5 @@ int main() {
     printf("Consumo medio de: %0.2f", consumoMedio);
 
     return 0;
-}*/
+}
 

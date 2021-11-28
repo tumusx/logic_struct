@@ -1,4 +1,4 @@
-/*#include "stdio.h"
+#include "stdio.h"
 int main() {
     float precoUnitarioProduto, DinheiroRecebido, Troco, precoTotal;
     int qntdComprada;
@@ -27,4 +27,4 @@ int main() {
 
     }
     return 0;
-}*/
+}

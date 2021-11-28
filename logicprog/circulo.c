@@ -1,4 +1,4 @@
-/*#include "stdio.h"
+#include "stdio.h"
 #include "math.h"
 #define _USE_MATH_DEFINES
 
@@ -15,4 +15,4 @@ int main(){
 
     return 0;
 }
-*/
+
